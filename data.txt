@@ -1,0 +1,1 @@
+#<Email:0x0000562ad86c8de8 @sender={:mail=>"asd@asd.com", :password=>"asd"}, @mail={:recipient=>"asd@asd.com", :subject=>"asd", :body=>"asd"}>
